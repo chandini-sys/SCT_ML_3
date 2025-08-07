@@ -101,9 +101,6 @@ And on prediction:
 
 ```
 Predicted: Dog 🐶
-```
-
-![Prediction Screenshot](./sample_prediction.png)
 
 ---
 
